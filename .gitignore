@@ -3,6 +3,7 @@
 outputs/
 assets/
 temp/
+demo/
 
 # setup
 data_juicer.egg-info/
